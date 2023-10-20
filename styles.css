@@ -133,21 +133,20 @@ h6{
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    margin-top: 24px;
-    margin-bottom: 16px;
+    margin: 24px 214px 16px 28px;
 }
 
 .run{
-    position: relative;
+    margin-left: 28px;
+    margin-top: -30px;
 }
-
 .learn{
     color: var(--83869A, #83869A);
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 26px; /* 162.5% */
-    margin-bottom: 24px;
+    margin: 0 29px 24px 28px;
     width: 286px;
 }
 
@@ -156,7 +155,8 @@ h6{
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 28px; /* 155.556% */
+    line-height: 28px;
+    margin: 0 211px 32px 28px;
 }
 
 footer{
